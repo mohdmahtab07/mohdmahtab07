@@ -1,9 +1,17 @@
-# 💫 About Me:
-Hey there! I am Mahtab 👋<br><br>🚀 I'm a Software Developer and Freelancer.<br><br>👉 Currently diving deep into MERN Stack and Next JS. 
+Hey there! I'm Mahtab 👋🏻
 
-![Profile Views](https://komarev.com/ghpvc/?username=mahtabdev07&style=flat-square&color=blue)
+🚀 I'm a Software Developer and Freelancer, building scalable platforms that empower people and enhance productivity.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahtabmohd07) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__mahtab.07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahtabmohd07) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mahtabmohd07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahtabmohd2005@gmail.com) 
+🔧 Currently exploring advanced backend patterns, scalable frontend architectures, cloud deployments & CI/CD with Docker, Vercel, and AWS
 
-[![](https://visitcount.itsvg.in/api?id=mahtabdev07&icon=0&color=0)](https://visitcount.itsvg.in)
+📚 Diving deep into system Design for large-scale apps, API performance optimization, clean architecture & software craftsmanship
+
+### Connect with me 🔁
+
+<p>
+<a href = https://github.com/mohdmahtab07 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg "Dev Sharma" height='32' weight='32' /></a>
+<a href = https://linkedin.com/in/mohdmahtab07 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='32' weight='32'/></a> 
+<a href = https://twitter.com/mohdmahtab07 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='32' weight='32'/></a>
+<br>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=mohdmahtab07.mohdmahtab07" alt="visitor badge"/>
+</p>
