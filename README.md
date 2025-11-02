@@ -2,9 +2,9 @@ Hey there! I'm Mahtab 👋🏻
 
 🚀 I'm a Software Developer and Freelancer, building scalable platforms that empower people and enhance productivity.
 
-🔧 Currently exploring advanced backend patterns, scalable frontend architectures, cloud deployments & CI/CD with Docker, Vercel, and AWS
+🔧 Currently exploring advanced backend patterns, scalable frontend architectures and cloud deployments.
 
-📚 Diving deep into system Design for large-scale apps, API performance optimization, clean architecture & software craftsmanship
+📚 Diving deep into system Design for large-scale apps and API performance optimization.
 
 ### Connect with me 🔁
 
